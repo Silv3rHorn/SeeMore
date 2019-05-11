@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "name": "See More for FB",
+    "version": "0.1",
+
+    "background" : {
+        "scripts" : ["scripts/background.js"]
+    },
+    
+    "permissions": [
+        "activeTab"
+    ],
+    
+    "browser_action": {
+        "default_icon": "images/icon.png",
+        "default_title": "Automatic 'See more' clicker for FaceBook"
+    },
+
+    "icons": {
+        "24": "images/icon24.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+    }
+}
