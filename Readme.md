@@ -1,6 +1,6 @@
 # SeeMore
 
-SeeMore is a Google Chrome **browser extension** that expands FaceBook posts. It scans the webpages for "See more" links and clicks on them.
+SeeMore is a Google Chrome **browser extension** that expands Facebook posts. It scans the webpages for "See more" links and clicks on them.
 
 ## Installation
 1) Clone repository and extract to folder
@@ -12,7 +12,7 @@ SeeMore is a Google Chrome **browser extension** that expands FaceBook posts. It
 7) Enable **See More for FB** extension
 
 ## Usage
-1) Go to any FaceBook page with "See more" links
+1) Go to any Facebook page with "See more" links
 2) Click on extension button
 3) A pop up will show the number of "See more" links found
 4) Click on *OK*
